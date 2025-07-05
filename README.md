@@ -21,6 +21,9 @@ All of this happens in a blink of an eye, right on the iPhone or iPad, ensuring 
 
 (A quick demo of the on-device background removal.)
 
+### **NotebookLM Audio**
+[output_audio_only.webm](https://github.com/user-attachments/assets/0d5c5963-b168-420c-a842-ed34abfd8f1c)
+
 ### **Key Features**
 
 * **🚀 On-Device Background Removal:** Employs a MobileNetV2 model via NCNN to accurately segment portraits and replace the background. No API calls, no latency.
